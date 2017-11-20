@@ -56,3 +56,6 @@ http://eprints.ucm.es/11587/1/Tutorial-IA-Programacion.pdf
 http://www.it.uc3m.es/jvillena/irc/practicas/estudios/Emocion.pdf
 
 http://ri.uaemex.mx/bitstream/handle/20.500.11799/63881/secme-35486.pdf?sequence=1
+
+## WebBiografia
+https://www.google.com.mx/search?ei=X80VWqjWAae7jwSZx60Y&q=image+counter+python&oq=image+counter+python&gs_l=psy-ab.3...12031.12931.0.13467.5.5.0.0.0.0.205.399.0j1j1.2.0....0...1c.1.64.psy-ab..3.0.0....0.hdnNRSd_aOQ
