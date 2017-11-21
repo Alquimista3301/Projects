@@ -15,6 +15,18 @@ Desarrollado por MML2oi56oi2f9
 
 ## Bibliografia
 
+### Farmacologia
+
+http://www.redalyc.org/pdf/579/57932293004.pdf
+
+https://digitalis-dsp.uc.pt/bitstream/10316.2/36774/1/La%20Farmacología%20Nacional.pdf
+
+http://www.cuc.udg.mx/sites/default/files/publicaciones/2015%20-%20Manual%20de%20conocimientos%20básicos%20de%20farmacología.pdf
+
+http://bibmed.ucla.edu.ve/edocs_bmucla/materialdidactico/farmacologia/farmbasica.pdf
+
+http://www.uaa.edu.mx/libros/FARMACOLOGIA%20Y%20NUTRICI%E0N/FARMACOLOG%D6A%201..pdf
+
 ### Reconocimiento de Patrones
 
 http://www.cs.ukzn.ac.za/~sviriri/Books/Machine-Learning-Pattern-Recognition/book1.pdf
@@ -29,14 +41,6 @@ http://www.cs.ukzn.ac.za/~sviriri/Books/Machine-Learning-Pattern-Recognition/boo
 
 http://www.cs.ukzn.ac.za/~sviriri/Books/Machine-Learning-Pattern-Recognition/book6.pdf
 
-### Farmacologia
+### Vision Artificial
 
-http://www.redalyc.org/pdf/579/57932293004.pdf
-
-https://digitalis-dsp.uc.pt/bitstream/10316.2/36774/1/La%20Farmacología%20Nacional.pdf
-
-http://www.cuc.udg.mx/sites/default/files/publicaciones/2015%20-%20Manual%20de%20conocimientos%20básicos%20de%20farmacología.pdf
-
-http://bibmed.ucla.edu.ve/edocs_bmucla/materialdidactico/farmacologia/farmbasica.pdf
-
-http://www.uaa.edu.mx/libros/FARMACOLOGIA%20Y%20NUTRICI%E0N/FARMACOLOG%D6A%201..pdf
+http://www.etitudela.com/celula/downloads/visionartificial.pdf
