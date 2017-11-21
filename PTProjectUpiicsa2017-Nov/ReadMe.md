@@ -12,3 +12,11 @@ Desarrollado por MML2oi56oi2f9
 ## Diagramas de clase
 
 ## Diagrama Relacional
+
+## Bibliografia
+
+http://www.cs.ukzn.ac.za/~sviriri/Books/Machine-Learning-Pattern-Recognition/book1.pdf
+
+http://www.cs.ukzn.ac.za/~sviriri/Books/Machine-Learning-Pattern-Recognition/book2.pdf
+
+http://www.cs.ukzn.ac.za/~sviriri/Books/Machine-Learning-Pattern-Recognition/book3.pdf
