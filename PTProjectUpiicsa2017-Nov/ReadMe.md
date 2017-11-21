@@ -20,3 +20,9 @@ http://www.cs.ukzn.ac.za/~sviriri/Books/Machine-Learning-Pattern-Recognition/boo
 http://www.cs.ukzn.ac.za/~sviriri/Books/Machine-Learning-Pattern-Recognition/book2.pdf
 
 http://www.cs.ukzn.ac.za/~sviriri/Books/Machine-Learning-Pattern-Recognition/book3.pdf
+
+http://www.cs.ukzn.ac.za/~sviriri/Books/Machine-Learning-Pattern-Recognition/book4.pdf
+
+http://www.cs.ukzn.ac.za/~sviriri/Books/Machine-Learning-Pattern-Recognition/book5.pdf
+
+http://www.cs.ukzn.ac.za/~sviriri/Books/Machine-Learning-Pattern-Recognition/book6.pdf
