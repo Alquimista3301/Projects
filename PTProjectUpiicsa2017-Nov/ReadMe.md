@@ -27,6 +27,12 @@ http://bibmed.ucla.edu.ve/edocs_bmucla/materialdidactico/farmacologia/farmbasica
 
 http://www.uaa.edu.mx/libros/FARMACOLOGIA%20Y%20NUTRICI%E0N/FARMACOLOG%D6A%201..pdf
 
+### Requerimientos & Diseño
+
+http://www.info.univ-angers.fr/pub/maturana/files/Modelamiento_de_Software_y_Negocios.pdf
+
+http://www.inf-cr.uclm.es/www/mpolo/asig/0708/manualPrincipal.pdf
+
 ### Reconocimiento de Patrones
 
 http://www.cs.ukzn.ac.za/~sviriri/Books/Machine-Learning-Pattern-Recognition/book1.pdf
@@ -44,3 +50,9 @@ http://www.cs.ukzn.ac.za/~sviriri/Books/Machine-Learning-Pattern-Recognition/boo
 ### Vision Artificial
 
 http://www.etitudela.com/celula/downloads/visionartificial.pdf
+
+http://eprints.ucm.es/11587/1/Tutorial-IA-Programacion.pdf
+
+http://www.it.uc3m.es/jvillena/irc/practicas/estudios/Emocion.pdf
+
+http://ri.uaemex.mx/bitstream/handle/20.500.11799/63881/secme-35486.pdf?sequence=1
