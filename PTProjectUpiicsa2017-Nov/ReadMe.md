@@ -4,21 +4,21 @@ El siguiente es un proyecto de Titulacion de la Unidad Profecional Interdiciplin
 Desarrollado por MML2oi56oi2f9
 ## Lista de requerimientos
 
-..* El sofware debe ser rentable, factible y funcional.
-..* Facil de usar 
-..* Analizar los datos de la manera mas rapida posible
-..* Velocidad de procesamiento y analisis
-..* Portable
-..* Corta periodo de aprendizaje
-..* Tiene que funcionar en computadoras de baja gama
-..* Detectar Patrones determinadas
-..* Descartar muestras erroneas
-..* Descartar erroes
-..* Analizar nuevos patrones
-..* Reconoces patrones repetitivos
-..* Exportar los resultados en un archivo de excel
-..* Presentacion sencilla de los datos
-..* Procesar la imagen para su manipulacion
+- El sofware debe ser rentable, factible y funcional.
+- Facil de usar 
+- Analizar los datos de la manera mas rapida posible
+- Velocidad de procesamiento y analisis
+- Portable
+- Corta periodo de aprendizaje
+- Tiene que funcionar en computadoras de baja gama
+- Detectar Patrones determinadas
+- Descartar muestras erroneas
+- Descartar erroes
+- Analizar nuevos patrones
+- Reconoces patrones repetitivos
+- Exportar los resultados en un archivo de excel
+- Presentacion sencilla de los datos
+- Procesar la imagen para su manipulacion
 
 ## Modelos
 
