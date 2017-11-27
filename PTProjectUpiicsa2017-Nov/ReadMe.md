@@ -32,8 +32,9 @@ Desarrollado por MML2oi56oi2f9
 
 ## Code
 
-```javascript
-print "Hola mundo"
+```python
+def hola():
+  print "Hola mundo"
 ```
 ## Bibliografia
 
