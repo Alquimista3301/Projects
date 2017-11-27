@@ -70,7 +70,7 @@ http://www.inf-cr.uclm.es/www/mpolo/asig/0708/manualPrincipal.pdf
 
 ### Reconocimiento de Patrones
 
-http://www.cs.ukzn.ac.za/~sviriri/Books/Machine-Learning-Pattern-Recognition/book1.pdf
+[Hammels] (http://www.cs.ukzn.ac.za/~sviriri/Books/Machine-Learning-Pattern-Recognition/book1.pdf)
 
 http://www.cs.ukzn.ac.za/~sviriri/Books/Machine-Learning-Pattern-Recognition/book2.pdf
 
