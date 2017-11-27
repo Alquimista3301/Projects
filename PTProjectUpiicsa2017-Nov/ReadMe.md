@@ -32,10 +32,9 @@ Desarrollado por MML2oi56oi2f9
 
 ## Code
 
-"""python
+```javascript
 print "Hola mundo"
-
-"""
+```
 ## Bibliografia
 
 ### Farmacologia
