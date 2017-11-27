@@ -30,6 +30,12 @@ Desarrollado por MML2oi56oi2f9
 
 #### Diagrama Relacional
 
+## Code
+
+"""python
+print "Hola mundo"
+
+"""
 ## Bibliografia
 
 ### Farmacologia
