@@ -36,13 +36,18 @@ Desarrollado por MML2oi56oi2f9
 from PIL import Image
 import numpy as np
 import matplotlib.pyplot as plt
+```
+Importamos las librerias.
 
+```
 fp = Image.open('neu.jpg')
 iar = np.asarray(fp)
 plt.imshow(iar)
 print (iar)
 plt.show()
 ```
+Invocamos la imagen del metodo Image.
+
 ## Bibliografia
 
 ### Farmacologia
